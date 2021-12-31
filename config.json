@@ -1,0 +1,6 @@
+{
+  "project": "akp3210/Mitosis-Detection-",
+  "container": "tensorflow/tensorflow:1.8.0-gpu",
+  "command": "nvidia-smi",
+  "machineType": "K80",
+}
